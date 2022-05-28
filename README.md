@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=try-external&label=Profile%20views&color=0e75b6&style=flat" alt="try-external" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=try-external" alt="try-external" /></a> </p>
+
 - 🔭 I’m currently working on **P1**
 
 - 👯 I’m looking to collaborate on **P2**
@@ -19,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=try-external&show_icons=true&locale=en&layout=compact" alt="try-external" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=try-external&show_icons=true&locale=en" alt="try-external" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=try-external&" alt="try-external" /></p>
